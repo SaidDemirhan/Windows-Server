@@ -1,0 +1,598 @@
+30.05.2022 Windows Server
+
+1. Ordnen Sie die 4 Phasen der DHCP Leaserzeugung in der richtigen Reihenfolge an.
+1. Der DHCP-Client überträgt ein
+DHCPDISCOVER-Paket
+2. DHCP-Server übertragen ein
+DHCPOFFER-Paket
+3. Der DHCP-Client überträgt ein
+DHCPREQUEST-Paket
+4. Der DHCP-Server1 überträgt ein
+DHCPACK-Paket
+
+
+2. Sie sind als Administrator für das Unternehmen Wbstraining tätig. Sie haben einen Ordner, den Sie im Netzwerk freigeben möchten.
+Sie müssen die Sicherheit für den freigegebenen Ordner konfigurieren. Sie haben folgende Anforderungen:
+•	Mitglieder einer Sicherheitsgruppe mit dem Namen LN RBB müssen die Berechtigungen von Dateien und Ordnern ändern können.
+•	Mitglieder einer Sicherheitsgruppe mit dem Namen Teilnehmer dürfen Dateien und Inhalte von Ordnern nur lesen können.
+•	Mitglieder einer Sicherheitsgruppe mit dem Namen Standorte müssen den Besitz von Dateien übernehmen können.
+Welche Berechtigung weisen Sie jeder Gruppe zu?
+Wählen Sie die Berechtigungen durch anklicken aus! 
+
+Jeder Vollzugriff
+LN RBB  Vollzugriff
+Gruppe Teilnehmer Lesen
+Gruppe Standorte Vollzugriff
+Wbstraining şirketinde yönetici olarak çalışıyorsunuz. Ağda paylaşmak istediğiniz bir klasörünüz var.
+Paylaşılan klasör için güvenliği yapılandırmanız gerekir. Aşağıdaki gereksinimlere sahipsiniz:
+
+    LN RBB adlı bir güvenlik grubunun üyeleri, dosya ve klasörlerdeki izinleri değiştirebilmelidir.
+    Katkıda Bulunanlar adlı bir güvenlik grubunun üyelerinin yalnızca dosya ve klasör içeriklerini okumasına izin verilir.
+    Siteler adlı bir güvenlik grubunun üyeleri, dosyaların sahipliğini alabilmelidir.
+
+Her gruba hangi izni veriyorsunuz?
+Tıklayarak izinleri seçin!
+
+
+3. Sie sind Berater einer kleinen Firma. Die Mitarbeiter des Unternehmens verwenden Windows 10 Enterprise-Computer.
+Ein Mitarbeiter möchte seinen lokalen Drucker mit ausgewählten Benutzern im Netzwerk teilen.
+Sie müssen die richtigen Einstellungen für den Drucker des Mitarbeiters konfigurieren und öffnen die Eigenschaften des Druckers.
+Auf welchen beiden Registerkarten nehmen Sie Änderungen vor?
+Klicken Sie auf die Namen der Karteireiter! Wählen Sie zwei aus!
+
+Küçük bir şirketin danışmanısınız. Şirket çalışanları, Windows 10 Enterprise bilgisayarları kullanır.
+Bir çalışan, yerel yazıcısını ağdaki seçili kullanıcılarla paylaşmak istiyor.
+Çalışanın yazıcısı için doğru ayarları yapılandırmalı ve yazıcının özelliklerini açmalısınız.
+Hangi iki sekmede değişiklik yapıyorsunuz?
+Sekmelerin adlarına tıklayın! İkisini seç!
+
+Freigabe 
+Sicherheit
+
+
+4. Sie verwalten ein Unternehmensnetzwerk mit einer Active Directory. Ihr Auszubildende erstellt in der Active Directory eine domänenlokale Gruppe.
+Sie wollen auf einem Dateiserver dieser Benutzergruppe Berechtigungen für einen Ordner erteilen. Die Gruppe wird aber weder in den Freigabeberechtigungen noch in den Sicherheitseigenschaften des Ordners angezeigt.
+Was müssen sie machen, um der Gruppe Berechtigungen erteilen zu können?
+Sie erstellen auf dem Dateiserver eine lokale Gruppe.
+Sie konvertieren in eine Sicherheitsgruppe. #
+Sie konvertieren den Bereich der Gruppe in eine universale Gruppe.
+Sie konvertieren den Bereich der Gruppe in eine globale Gruppe.
+
+Bir şirket ağını Active Directory ile yönetiyorsunuz. Stajyeriniz Active Directory'de bir etki alanı-yerel grubu oluşturur.
+
+Bu kullanıcı grubuna bir dosya sunucusundaki bir klasör için izinler vermek istiyorsunuz. Ancak grup, klasörün paylaşım izinlerinde veya güvenlik özelliklerinde görüntülenmez.
+
+Gruba izin verebilmek için ne yapmanız gerekiyor?
+
+Dosya sunucusunda yerel bir grup oluşturursunuz.
+
+Bir güvenlik grubuna dönüştürürsünüz.
+
+Grubun kapsamını evrensel bir gruba dönüştürürsünüz.
+
+Grubun kapsamını genel bir gruba dönüştürürsünüz.
+
+
+
+5. Ordnen Sie den Druckkomponenten die richtige Beschreibung zu!
+
+Druckgerät
+Physikalisches Gerät das den Druckauftrag ausgibt
+Druckport
+Anschluss des Druckgerätes an den Computer
+Drucker
+repräsentiert das Druckgeräte in Windows
+Druckertreiber
+Verbindet den Drucker mit dem Druckgerät,
+Kommunikation Anwendung Druckgerät
+
+
+6. Sie verwalten ein Netzwerk mit einer Active Directory. Sie verwalten einen Dateiserver. Einer ihrer Kollegen hat in diesen Server eine neue Festplatte mit einer Größe von 3 TB eingebaut. Sie wollen auf dieser Festplatte ein Volumen einrichten.
+Sie öffnen die Datenträgerverwaltung und finden folgende Situation vor:
+Was müssen Sie tun um die volle Kapazität der Festplatte nutzen zu können?
+
+Sie konvertieren den Datenträger in einen dynamischen Datenträger.
+Sie erstellen ein Volumen mit 2 TB Größe und anschliessend ein Volumen mit 1 TB Größe.
+Sie schalten den Datenträger Offline und wieder Online.
+Sie konvertieren den Datenträger zu einem GPT-Datenträger. #
+
+Bir Active Directory ile bir ağı yönetiyorsunuz. Bir dosya sunucusunu yönetiyorsunuz. Meslektaşlarından biri bu sunucuya yeni bir 3 TB sabit disk taktı. Bu sabit diskte bir birim kurmak istiyorsunuz.
+Disk Yönetimi'ni açar ve aşağıdaki durumu bulursunuz:
+Sabit diskin tam kapasitesini kullanabilmek için ne yapmanız gerekiyor?
+ 
+Diski dinamik diske dönüştürürsünüz.
+2 TB boyutunda bir birim ve ardından 1 TB boyutunda bir birim oluşturursunuz.
+Diski çevrimdışına alıp tekrar çevrimiçi olursunuz.
+Diski bir GPT diskine dönüştürürsünüz.
+
+
+7. Sie haben einen Computer, der wie in der folgenden Abbildung gezeigt konfiguriert ist.
+Womit kann der Computer eine Verbindung herstellen?
+
+Nur mit anderen Computern im selben Netzwerksegment, die eine Adresse mit einer Klasse A Netzwerk-ID haben.
+Nur mit anderen Computern im selben Netzwerksegment, die über eine automatische private IP-Adresse (APIPA) verfügen. #
+Mit allen lokalen Computern und Remotecomputern, einschließlich Internethosts.
+Nur mit lokalen Computer und Remotecomputer innerhalb Ihrem Unternehmensnetzwerk.
+
+Aşağıdaki şekilde gösterildiği gibi yapılandırılmış bir bilgisayarınız var.
+Bilgisayar neye bağlanabilir?
+
+Yalnızca aynı ağ kesiminde A sınıfı ağ kimliğine sahip bir adresi olan diğer bilgisayarlarla.
+Yalnızca otomatik özel IP adresine (APIPA) sahip aynı ağ kesimindeki diğer bilgisayarlarla.
+İnternet ana bilgisayarları dahil tüm yerel ve uzak bilgisayarlarla.
+Yalnızca şirket ağınızdaki yerel bilgisayarlar ve uzak bilgisayarlarla.
+
+
+8. Sie verwalten ein Netzwerk mit einer Active Directory-Domäne. Sie verwalten einen Druckserver. Am Druckserver ist ein Netzwerkdruckgerät angeschlossen und freigegeben. Es sind zwei Druckertreiber installiert. Einer der Drucker ist so konfiguriert, dass er nur monochrom druckt. Sie wollen das nur Benutzer einer bestimmten Abteilung mit diesem Drucker drucken können.
+Was werden Sie konfigurieren?
+
+Sie fügen auf der Karteikarte Sicherheit des Druckers die Gruppe der Abteilung mit der Berechtigung Diesen Drucker verwalten hinzu.
+Sie löschen auf der Karteikarte Sicherheit des Druckers die Gruppe Jeder und fügen die Gruppe der Abteilung mit der Berechtigung Drucken hinzu. #
+Sie fügen auf der Karteikarte Sicherheit des Druckers die Gruppe der Abteilung mit der Berechtigung Drucken hinzu.
+Sie fügen auf der Karteikarte Sicherheit des Druckers die Gruppe der Abteilung mit der Berechtigung Dokumente verwalten hinzu.
+Active Directory etki alanına sahip bir ağı yönetiyorsunuz. Bir baskı sunucusunu yönetiyorsunuz. Yazdırma sunucusuna bir ağ yazdırma aygıtı bağlı ve etkinleştirildi. İki yazıcı sürücüsü yüklenir. Yazıcılardan biri yalnızca tek renkli yazdıracak şekilde yapılandırılmış. Yalnızca belirli bir departmandaki kullanıcıların bu yazıcıya yazdırabilmesini istiyorsunuz.
+
+Neyi yapılandıracaksınız?
+
+Yazıcının Güvenlik sekmesinde, Bu yazıcıyı yönet izniyle departmanın grubunu eklersiniz.
+
+Yazıcının Güvenlik sekmesinde, Herkes grubunu siler ve Yazdırma izniyle Departman grubunu eklersiniz.
+
+Yazıcının Güvenlik sekmesinde, Yazdırma iznine sahip departman grubunu eklersiniz.
+
+Belgeleri Yönetme iznine sahip departman grubunu yazıcının Güvenlik sekmesine eklersiniz.
+
+
+9. Ihr Netzwerk umfasst eine Active Directory-Domäne mit dem Namen Wbstraining.intern. Die Domäne enthält einen Windows 10 Enterprise Computer mit dem Namen Client1.
+Sie erstellen auf Client1 einen neuen Ordner und geben ihn für alle Benutzer Ihres Unternehmens frei.
+Sie müssen die NTFS-Berechtigungen des freigegebenen Ordners so ändern, dass folgende Anforderungen erfüllt sind:
+•	Mitglieder der Active Directory-Sicherheitsgruppe Controlling müssen in der Lage sein, alle Dateien zu öffnen. Änderungen der Dateinhalte oder speichern von Dateien darf den Benutzern jedoch nicht möglich sein.
+•	Mitglieder der Active Directory-Sicherheitsgruppe Vertrieb müssen in der Lage sein, Dateien zu erstellen, zu ändern und zu löschen.
+•	Weder Mitglieder der Gruppe Controlling noch Mitglieder der Gruppe Vertrieb dürfen den freigegebenen Ordner löschen können.
+Welche Berechtigungen konfigurieren Sie?
+
+Weisen Sie der Gruppe Controlling die Berechtigungen Lesen und Schreiben zu. Weisen Sie der Gruppe Vertrieb die Berechtigung Vollzugriff zu.
+Weisen Sie der Gruppe Controlling die Berechtigung Lesen zu. Weisen Sie der Gruppe Vertrieb die Berechtigungen Lesen und Schreiben sowie die spezielle Berechtigung Löschen zu.
+Weisen Sie der Gruppe Controlling die Berechtigung Lesen zu. Weisen Sie der Gruppe Vertrieb die Berechtigungen Ändern zu. #
+Weisen Sie der Gruppe Controlling die Berechtigungen Lesen und Schreiben zu. Weisen Sie der Gruppe Vertrieb die Berechtigung Ändern und die spezielle Berechtigung Unterordner und Dateien löschen zu.
+
+Ağınız, Wbstraining.intern adlı bir Active Directory etki alanı içeriyor. Etki alanı, Client1 adlı bir Windows 10 Enterprise bilgisayarı içerir.
+Client1 üzerinde yeni bir klasör oluşturuyorsunuz ve bunu şirketinizdeki tüm kullanıcılarla paylaşıyorsunuz.
+Aşağıdaki gereksinimleri karşılamak için paylaşılan klasörün NTFS izinlerini değiştirmelisiniz:
+
+    Active Directory Denetleme güvenlik grubunun üyeleri tüm dosyaları açabilmelidir. Ancak, kullanıcılar dosya içeriğini değiştirememeli veya dosyaları kaydedememelidir.
+    Sales Active Directory güvenlik grubunun üyeleri, dosya oluşturabilmeli, değiştirebilmeli ve silebilmelidir.
+    Ne Kontrol grubunun üyeleri ne de Satış grubunun üyeleri paylaşılan klasörü silemez.
+
+Hangi izinleri yapılandırıyorsunuz?
+
+Kontrol grubuna Okuma ve Yazma izinleri atayın. Satış grubuna Tam Denetim izni atayın.
+
+Kontrol grubuna Okuma yetkisi atayın. Satış grubuna Okuma ve Yazma izinleri ve özel bir Silme izni atayın.
+
+Kontrol grubuna Okuma yetkisi atayın. Satış grubuna Değiştirme izinleri atayın.
+
+Kontrol grubuna Okuma ve Yazma izinleri atayın. Satış grubuna Değiştir iznini ve özel Alt klasörleri ve dosyaları Sil iznini atayın.
+
+
+10. Sie wollen auf einem Windows Server mit grafischer Oberfläche eine Rolle installieren.
+
+Welche Tools können Sie für die Installation verwenden?
+Bitte wählen Sie 2 von 4 Antworten!
+Windows Update
+Powershell #
+Server-Manager #
+eigenständiges Installationsprogramm
+
+
+11. Sie verwalten ein Netzwerk mit einer Active Directory. Sie haben einen Computer zur Domäne hinzugefügt.
+Wo innerhalb der Active Directory wird das Computerkonto in den Standardeinstellungen erstellt?
+Gruppe Computer
+Container Computers #
+Organisationseinheit Computers
+Gruppe Computers
+
+Bir Active Directory ile bir ağı yönetiyorsunuz. Etki alanına bir bilgisayar eklediniz.
+
+Bilgisayar hesabı varsayılan ayarlarda Active Directory içinde nerede oluşturulur?
+
+
+12. Sie verwalten ein Unternehmensnetzwerk mit einer Active Directory. Es gibt in der Domäne nur einen Domänencontroller. Der Server wurde in der letzten Nacht wegen eines Update neu gestartet.
+Benutzer ihrer AD melden sich bei ihnen und berichten, dass sie sich nicht anmelden können. Bei der Fehlersuche stellen Sie fest, dass keine Dienstidentifizierungseinträge im DNS vorhanden sind.  Sie wollen die automatische Erstellung der Einträge anstoßen.
+Was werden Sie tun?
+
+Sie weisen die Benutzer an den Client neu zu starten.
+Sie starten den Dienst Active Directory-Domänendienste neu.
+Sie starten den Dienst DNS neu.
+Sie starten den Dienst Anmeldedienst neu. #
+Bir şirket ağını Active Directory ile yönetiyorsunuz. Etki alanında yalnızca bir etki alanı denetleyicisi vardır. Sunucu, bir güncelleme nedeniyle dün gece yeniden başlatıldı.
+
+AD'lerinin kullanıcıları onlarla iletişim kurar ve oturum açamadıklarını bildirir. Sorun giderdiğinizde, DNS'de hizmet konumu kaydı olmadığını görürsünüz. Girişlerin otomatik olarak oluşturulmasını tetiklemek istiyorsunuz.
+Ne yapacaksın?
+
+Kullanıcıya istemciyi yeniden başlatmasını söylerler.
+Active Directory Etki Alanı Hizmetleri hizmetini yeniden başlatın.
+DNS hizmetini yeniden başlatın.
+Net Logon hizmetini yeniden başlatın.
+
+
+13. Sie verwalten ein Unternehmensnetzwerk mit einer Actvie Directory. Sie installieren auf einem Mitgliedsserver ihrer Domäne einen DHCP Server. Sie konfigurieren einen Adressbereich und aktivieren ihn. Die DHCP Clients erhalten vom DHCP Server keine Adresse.
+Was werden Sie  tun damit der DHCP Server IP Adressen vergibt?
+Sie autorisieren den DHCP Server in der Domäne. #
+Sie entfernen den DHCP Server aus der Domäne und nehmen ihn wieder in die Domäne auf.
+Sie starten den DHCP Dienst.
+Sie aktivieren den Bereich.
+
+Bir Actvie Dizini ile bir şirket ağını yönetiyorsunuz. Etki alanınızın bir üye sunucusuna bir DHCP sunucusu kurarsınız. Bir adres aralığı yapılandırır ve etkinleştirirsiniz. DHCP istemcileri, DHCP sunucusundan bir adres almaz.
+
+DHCP sunucusunun IP adresleri atamasını sağlamak için ne yapacaksınız?
+Etki alanındaki DHCP sunucusunu yetkilendirirsiniz.
+DHCP sunucusunu etki alanından kaldırır ve etki alanına geri eklersiniz.
+DHCP hizmetini başlatırsınız.
+Alanı etkinleştirirsiniz.
+
+
+14. Sie verwalten ein Netzwerk mit einer Arbeitsgruppe. Sie wollen einen Windows Server 2012 R2 auf Windows Server 2016 upgraden. Die Installation wird mit einer Fehlermeldung aabgebrochen. Bei einer Überprüfung der vorhandenen Hardware stellen Sie fest, dass Laufwerk C: 100 GB groß ist und 25% frei sind.  
+Was müssen Sie tun um das Upgrade ausführen zu können?
+Sie löschen Dateien um mehr freien Speicherplatz zu schaffen. #
+Sie erhöhen den Arbeitsspeicher.
+Sie starten den Computer vom Installationsmedium und installieren Windows.
+Sie bauen eine neue Festplatte ein und installieren den Windows Server 2016 auf diese.
+
+Bir ağı bir çalışma grubuyla yönetiyorsunuz. Windows Server 2012 R2'yi Windows Server 2016'ya yükseltmek istiyorsunuz. Kurulum bir hata mesajı ile durdurulur. Mevcut donanımı kontrol ettiğinizde, C: sürücüsünün 100 GB olduğunu ve %25 ücretsiz olduğunu görürsünüz.
+Yükseltmeyi gerçekleştirebilmek için ne yapmanız gerekiyor?
+
+Yer açmak için dosyaları silersiniz.
+Hafızayı arttırırlar.
+Bilgisayarı kurulum ortamından başlatır ve Windows'u kurarsınız.
+Yeni bir sabit sürücü takarsınız ve üzerine Windows Server 2016 yüklersiniz.
+
+
+15. Sie verwalten einen Windows Server 2016 mit vollständiger Oberfläche. Der Server ist Mitglied einer Arbeitsgruppe. Sie sollen den Server zu einem Domänencontroller heraufstufen. Er wird der erste Domänencontroller der Domäne sein.
+Welche Installationsoption werden Sie im Konfigurtaionsassistenten für die Active Directory-Domänendienste auswählen?
+
+Neue Domäne einer vorhandenen Gesamtstruktur hinzufügen
+Domänencontroller zu einer vorhandenen Domäne hinzufügen
+Neue Gesamtstruktur hinzufügen. #
+
+Tam arabirimli bir Windows Server 2016 yönetiyorsunuz. Sunucu bir çalışma grubunun üyesidir. Sunucuyu bir etki alanı denetleyicisine yükseltmelisiniz. Etki alanındaki ilk etki alanı denetleyicisi olacaktır.
+
+Active Directory Etki Alanı Hizmetleri Yapılandırma Sihirbazı'nda hangi yükleme seçeneğini seçeceksiniz?
+
+Mevcut bir ormana yeni bir etki alanı ekleyin
+Mevcut bir etki alanına etki alanı denetleyicisi ekleyin
+Yeni orman ekle.
+
+
+16. Welche Mindestanforderungen hat Windows Server 2016 für die Installation?
+Bitte wählen Sie 3 von 6 Antworten!
+Ram 1 GiB 
+RAM 512 MiB #
+CPU 1,4 GHz #
+CPU 2,0 GHz 
+Festplatte 32 GiB #
+Festplatte 50 GiB 
+
+
+17. Sie wollen auf einem Windows Server mit grafischer Oberfläche eine Rolle installieren.
+
+Welches Tools können Sie für die Installation verwenden?
+Windows Update
+Server-Manager #
+eigenständiges Installationsprogramm
+
+
+18. Welcher der folgenden Komponenten einer Active Directory Domäne sind logische Komponenten?
+Globaler Katalogserver 
+Datenspeicher 
+RODC 
+Domänen #
+Container #
+Organisationseinheiten #
+
+
+19. Sie sind der Netzwerkadministrator des Firmennetzwerks. Das Netzwerk besteht aus 45 Windows 7 Professional Clients, welche mit 2 Windows Server 2008 verbunden sind. Sie versuchen auf dem Windows Server 2008 in einem freigegebenen Ordner auf die Datei "Reports" zuzugreifen, oder sie zu ändern. Wie auch immer, wird Ihnen der Zugriff auf diese Datei verweigert. Nach genauerem Betrachten finden Sie heraus, das jedes andere Mitglied der Administratoren-Gruppe Zugriff auf diese Datei hat. Was ist der höchstmögliche Grund, warum Ihnen der Zugriff auf diese Datei verweigert wird?
+
+Sie sind Mitglied einer Gruppe, welche nicht die ausdrücklichen Rechte hat auf diese Datei zuzugreifen. 
+Sie sind Mitglied einer Gruppe, welche den Zugriff auf diese Datei ausdrücklich verweigert bekommen hat. #
+Sie sind nicht der Besitzer dieser Datei. 
+Es wird ein lokales Sicherheitsprogramm benutzt, welches Ihnen den Zugriff auf diese Datei verweigert. 
+
+Şirket ağının ağ yöneticisisiniz. Ağ, 2 Windows Server 2008'e bağlı 45 Windows 7 Professional İstemcisinden oluşur. Windows Server 2008'de paylaşılan bir klasördeki "Raporlar" dosyasına erişmeye veya dosyayı değiştirmeye çalışıyorsunuz. Ancak, bu dosyaya erişiminiz reddedildi. Daha yakından incelediğinizde, Administrators grubunun diğer tüm üyelerinin bu dosyaya erişimi olduğunu görürsünüz. Bu dosyaya erişiminizin engellenmesinin en olası nedeni nedir?
+
+Bu dosyaya erişim için açık izni olmayan bir grubun üyesisiniz.
+Bu dosyaya erişimi özel olarak reddedilmiş bir grubun üyesisiniz.
+Bu dosyanın sahibi değilsiniz.
+Bu dosyaya erişiminizi engelleyen yerel bir güvenlik programı kullanılıyor.
+
+
+20. Ihr Firmennetzwerk umfasst eine Active Directory-Domänendienste (AD DS) Domäne mit dem Namen wbs.intern. Die Domäne enthält einen Server mit dem Namen Server1. Auf Server1 ist das Betriebssystem Windows Server 2016 installiert. 
+
+Sie erstellen auf Server1 einen Drucker mit dem Namen Drucker1. Sie geben Drucker1 im Netzwerk frei und veröffentlichen ihn in Active Directory. 
+
+Sie müssen einer Gruppe mit dem Namen Gruppe1 die Möglichkeit für die Verwaltung von Drucker1 erteilen.
+
+Wie gehen Sie vor?
+
+Verwenden Sie Active Directory-Benutzer und –Computer und konfigurieren Sie die Sicherheitseinstellungen von Drucker1. 
+Verwenden Sie die Druckverwaltung und konfigurieren Sie die erweiterten Einstellungen von Drucker1. 
+Verwenden Sie die Druckverwaltung und konfigurieren Sie die Freigabeeinstellungen von Drucker1. 
+Verwenden Sie die Druckverwaltung und konfigurieren Sie die Sicherheitseinstellungen von Drucker1. #
+
+Kurumsal ağınız, wbs.intern adında bir Active Directory Etki Alanı Hizmetleri (AD DS) etki alanı içerir. Etki alanı, Sunucu1 adlı bir sunucu içerir. İşletim sistemi Windows Server 2016, Sunucu1'de kuruludur.
+Sunucu1'de Yazıcı1 adlı bir yazıcı oluşturursunuz. Yazıcı1'i ağ üzerinde paylaşır ve Active Directory'de yayınlarsınız.
+Grup1 adlı bir gruba Yazıcı1'i yönetme yeteneği vermelisiniz.
+Nasıl devam edersiniz?
+
+Active Directory Kullanıcılarını ve Bilgisayarlarını kullanın ve yazıcı1 güvenlik ayarlarını yapılandırın.
+Baskı yönetimini kullanın ve yazıcı1'in gelişmiş ayarlarını yapılandırın.
+Baskı yönetimini kullanın ve Yazıcı1'in paylaşım ayarlarını yapılandırın.
+Baskı yönetimini kullanın ve yazıcı1 güvenlik ayarlarını yapılandırın.
+
+
+21. Sie verwalten ein Netzwerk mit einer Active Directory. Sie verwalten einen Dateiserver. Einer ihrer Kollegen hat in diesen Server 3 neue Festplatten eingebaut. Sie wollen auf diesem Dateiserver hochverfügbaren Speicher zur Verfügung stellen. Der Speicher soll den Ausfall eines Datenträgers tolerieren und möglichst viel Speicherplatz bereitstellen.
+Was werden Sie konfigurieren?
+
+Übergreifendes Volumen
+RAID 5 #
+RAID 1
+RAID 0
+
+Bir Active Directory ile bir ağı yönetiyorsunuz. Bir dosya sunucusunu yönetiyorsunuz. İş arkadaşlarınızdan biri bu sunucuya 3 yeni sabit disk taktı. Bu dosya sunucusunda yüksek oranda kullanılabilir depolama sağlamak istiyorsunuz. Bellek, bir veri taşıyıcısının arızasını tolere etmeli ve mümkün olduğunca fazla depolama alanı sağlamalıdır.
+
+Neyi yapılandıracaksınız?
+
+örtüşen hacim
+RAID 5
+RAID 1
+RAID 0
+
+
+22. Ihr Netzwerk enthält eine Active Directory-Domäne mit dem Namen wbstraining.de. Die Domäne enthält einen Computer mit dem Namen Computer1. Auf Computer1 ist das Betriebssystem Windows 10 installiert.
+Sie erstellen auf Computer1 einen Ordner und weisen der Gruppe Jeder die NTFS-Berechtigungen Vollzugriff zu.
+Sie geben den Ordner als Freigabe1 im Netzwerk frei und konfigurieren die folgenden Freigabeberechtigungen:
+
+Welche zwei Aktionen können beim Zugriff auf Freigabe1 von Benutzer1 ausgeführt werden, nicht jedoch von Benutzer2?
+Wählen Sie zwei Antworten
+Bitte wählen Sie 2 von 5 Antworten!
+
+Umbenennen einer Datei, die von einem anderen Benutzer erstellt wurde.
+Den Besitz einer Datei übernehmen. #
+Ändern der Berechtigungen für eine Datei. #
+Kopieren einer Datei, die von einem anderen Benutzer erstellt wurde, in einen Unterordner.
+Löschen einer Datei, die von einem anderen Benutzer erstellt wurde
+
+Ağınız, wbtraining.de adlı bir Active Directory etki alanı içeriyor. Etki alanı, Bilgisayar1 adlı bir bilgisayar içerir. Windows 10 işletim sistemi Bilgisayar1'de kuruludur.
+
+Bilgisayar1'de bir klasör oluşturursunuz ve Herkes grubuna Tam Denetim NTFS izinleri verirsiniz.
+
+Klasörü ağ üzerinde Share1 olarak paylaşır ve aşağıdaki paylaşım izinlerini yapılandırırsınız:
+
+Share1'e erişirken, Kullanıcı1 tarafından hangi iki işlem gerçekleştirilebilir, ancak Kullanıcı2 tarafından gerçekleştirilemez?
+
+Başka bir kullanıcı tarafından oluşturulan bir dosyayı yeniden adlandırın.
+
+Bir dosyanın sahipliğini alın.
+
+Bir dosyadaki izinleri değiştirme.
+
+Başka bir kullanıcı tarafından oluşturulan bir dosyayı bir alt klasöre kopyalayın.
+
+Başka bir kullanıcı tarafından oluşturulan bir dosyayı silme
+
+
+23. Sie verwalten ein Unternehmensnetzwerk mit einer Active Directory. Einer ihrer Kollegen erstellt eine domänenlokale Sicherheitsgruppe und fügt ihr 200 Mitglieder hinzu.
+Sie müssen die Gruppe in eine globale Gruppe konvertieren.
+Wie gehen Sie vor?
+
+Sie öffnen die Konsole Active Directory Benutzer und -Computer. Sie öffnen die Eigenschaften der Gruppe. Sie konvertieren die Gruppe eine globale Gruppe.
+
+Sie öffnen die Konsole Active Directory Benutzer und -Computer. Sie öffnen die Eigenschaften der Gruppe. Sie konvertieren die Gruppe in eine Verteilergruppe.
+
+Sie öffnen die Konsole lokale Benutzer und Gruppen. Sie öffnen die Eigenschaften der Gruppe. Sie konvertieren die Gruppe zuerst in eine universale Gruppe, dann in eine globale Gruppe.
+
+Sie öffnen die Konsole Active Directory Benutzer und -Computer. Sie öffnen die Eigenschaften der Gruppe. Sie konvertieren die Gruppe zuerst in eine universale Gruppe, dann in eine globale Gruppe. #
+
+Bir şirket ağını Active Directory ile yönetiyorsunuz. İş arkadaşlarınızdan biri bir etki alanı yerel güvenlik grubu oluşturur ve buna 200 üye ekler.
+
+Grubu genel bir gruba dönüştürmelisiniz.
+
+Nasıl devam edersiniz?
+
+Active Directory Kullanıcıları ve Bilgisayarları konsolunu açarsınız. Grubun özelliklerini açarsınız. Grubu genel bir gruba dönüştürürsünüz.
+
+Active Directory Kullanıcıları ve Bilgisayarları konsolunu açarsınız. Grubun özelliklerini açarsınız. Grubu bir dağıtım grubuna dönüştürürsünüz.
+
+Yerel Kullanıcılar ve Gruplar konsolunu açarsınız. Grubun özelliklerini açarsınız. Grubu önce evrensel bir gruba, ardından küresel bir gruba dönüştürürsünüz.
+
+Active Directory Kullanıcıları ve Bilgisayarları konsolunu açarsınız. Grubun özelliklerini açarsınız. Grubu önce evrensel bir gruba, ardından küresel bir gruba dönüştürürsünüz.
+
+
+
+24. Sie verwalten ein Netzwerk mit einer Active Directory. Sie haben in einen Server mit dem Betriebssystem Windows Server 2016 eine neue Festplatte von 1 TB Größe eingebaut.
+ 
+Nach dem Start des Servers initialisieren Sie die Festplatte im Server-Manager.
+ 
+In welchem Partitionsstil initialisieren Sie die Festplatte? 
+ 
+dynamischer Datenträger
+
+Basisdatenträger
+
+GPT #
+
+MBR
+
+Bir Active Directory ile bir ağı yönetiyorsunuz. Windows Server 2016 işletim sistemine sahip bir sunucuya yeni 1 TB sabit sürücü taktınız.
+
+Sunucuyu başlattıktan sonra, Sunucu Yöneticisi'nde sabit diski başlatın.
+
+Diski hangi bölüm stilinde başlatıyorsunuz?
+
+dinamik disk
+
+temel disk
+
+GPT
+
+MBR
+
+
+25. Was kann Windows Server 2016 Datacenter mehr als Windows Server 2016 Standard?
+
+Windows Server 2016 Datacenter hat einen reduzierten Hardwarebedarf 
+
+Windows Server 2016 Datacenter kann mehr als 2 Virtuelle Maschinen mit seinem Produktkey aktivieren. #
+
+Windows Server 2016 Datacenter kann mehr User verwalten. 
+
+Windows Server 2016 Datacenter hat weniger Funktionen 
+
+Windows Server 2016 Veri Merkezi, Windows Server 2016 Standard'dan daha fazlasını yapabilir mi?
+
+Windows Server 2016 Datacenter, azaltılmış bir donanım gereksinimine sahiptir
+Windows Server 2016 Datacenter, ürün anahtarı ile 2'den fazla sanal makineyi etkinleştirebilir.
+Windows Server 2016 Datacenter daha fazla kullanıcıyı yönetebilir.
+Windows Server 2016 Datacenter'ın daha az özelliği var
+
+
+
+26. Sie administrieren drei Windows 10 Enterprise-Clientcomputer im Netzwerk eines Unternehmens. Das Unternehmen verfügt über eine Active Directory-Domänendienste (AD DS)-Domäne und verwendet einen DHCP-Server.
+Sie möchten eine DHCP-Adressreservierung für einen Clientcomputer erstellen.
+Sie müssen die MAC-Adresse (Media Access Control, MAC) des Clientcomputers ermitteln.
+Welchen Befehl führen Sie aus?
+
+ipconfig /flushdns
+
+ipconfig /all #
+
+ipconfig
+
+ipconfig /allcompartments
+
+Bir şirket ağında üç Windows 10 Enterprise istemci bilgisayarı yönetiyorsunuz. Şirketin bir Active Directory Etki Alanı Hizmetleri (AD DS) etki alanı vardır ve bir DHCP sunucusu kullanır.
+Bir istemci bilgisayar için bir DHCP adresi rezervasyonu oluşturmak istiyorsunuz.
+İstemci bilgisayarın medya erişim denetimi (MAC) adresini bulmanız gerekir.
+Hangi komutu çalıştırıyorsunuz?
+
+ipconfig /flushdns
+
+ipconfig /all
+
+ipconfig
+
+ipconfig /allcompartments
+
+
+27. Das Netzwerk besteht aus einer einzelnen Active Directory Gesamtstruktur, die zwei Domänen mit den Namen bremen.wbs.de und muenchen.wbs.de enthält. Sie sind als Netzwerkadministrator für die Wartung und Pflege der Domäne bremen.wbs.de zuständig. Benutzer Ihrer Domäne benötigen Zugriff auf Ressourcen, die auf Mitgliedsservern der Domäne muenchen.wbs.de bereitgestellt werden.
+Sie wollen eine Gruppe erstellen, die für den Zugriff auf die benötigten Ressourcen verwendet wird.
+Wie gehen Sie vor?
+Bitte wählen Sie 1 von 5 Antworten!
+
+Erstellen Sie eine universelle Verteilergruppe. 
+
+Erstellen Sie eine globale Verteilergruppe. 
+
+Erstellen Sie eine domänenlokale Sicherheitsgruppe. 
+
+Erstellen Sie eine domänenlokale Verteilergruppe. 
+
+Erstellen Sie eine globale Sicherheitsgruppe. #
+
+
+
+Ağ, bremen.wbs.de ve muenchen.wbs.de adlı iki etki alanını içeren tek bir Active Directory ormanından oluşur. Bir ağ yöneticisi olarak, bremen.wbs.de alanının bakımından ve bakımından siz sorumlusunuz. Alan adınızın kullanıcılarının muenchen.wbs.de alan adının üye sunucularında sağlanan kaynaklara erişmesi gerekir.
+İhtiyacınız olan kaynaklara erişmek için kullanılacak bir grup oluşturmak istiyorsunuz.
+
+Nasıl devam edersiniz?
+
+Lütfen 5 yanıttan birini seçin!
+Evrensel bir dağıtım grubu oluşturun.
+Genel bir dağıtım grubu oluşturun.
+Bir etki alanı yerel güvenlik grubu oluşturun.
+Etki alanı yerel dağıtım grubu oluşturun.
+Küresel bir güvenlik grubu oluşturun.
+
+
+28. Sie verwalten ein Unternehmensnetzwerk mit einer Active Directory. Im Unternehmen wird eine Auszubildender zum Fachinformatiker ausgebildet.
+Der Azubi erkundigt sich bei ihnen ob mit dem Konfigurationsassistent für die Active Directory-Domänendienste auch Rollen installiert werden können.
+Was werden sie ihm antworten?
+
+Die Rolle DNS Server kann installiert werden. #
+
+Ja, die Rolle RODC kann installiert werden.
+
+Nein, es kann nur das Feature DNS Delegierung installiert werden.
+
+Nein, es können keine Rollen installiert werden.
+
+Bir şirket ağını Active Directory ile yönetiyorsunuz. Şirket, bir BT uzmanı olmak için bir çırak yetiştiriyor.
+
+Kursiyer onlara Active Directory etki alanı hizmetleri için yapılandırma sihirbazıyla rollerin de yüklenip yüklenemeyeceğini sorar.
+
+ona ne cevap vereceksin
+
+DNS Sunucusu rolü yüklenebilir.
+
+Evet, RODC rolü yüklenebilir.
+
+Hayır, yalnızca DNS yetkilendirme özelliği yüklenebilir.
+
+Hayır, roller yüklenemez.
+
+
+
+
+
+
+
+
+
+29. Sie wollen auf einem Windows Server in Standarsinstallation eine Rolle installieren.
+
+Welches Tools können Sie für die Installation verwenden? (Wählen Sie zwei Antworten aus!)
+Bitte wählen Sie 2 von 4 Antworten!
+
+DISM #
+Server-Manager
+Powershell #
+Windows-Update
+
+Standart bir Windows sunucusuna bir rol yüklemek istiyorsunuz.
+
+Kurulum için hangi aracı kullanabilirsiniz? (İki cevap seçin!)
+
+Lütfen 4 cevaptan 2'sini seçin!
+
+DISM
+
+sunucu Yöneticisi
+
+güç kalkanı
+
+Windows güncelleme
+
+
+30. Sie verwalten ein Unternehmensnetzwerk mit einer Active Directory. Sie wollen einen Windows 10 Computer zur Domäne hinzufügen. Sie erstellen vorab ein Computerkonto mit Namen Client25. Sie installieren auf einem neuen Computer Windows 10 Professional in den Standardeinstellungen.
+Was werden Sie als nächstes tun?
+
+Sie benennen den Computer in Client25 um. 
+
+Sie verbinden den Computer mit dem Netzwerk und starten ihn  neu.
+
+Sie verbinden den Computer mit dem Netzwerk und öffnen die Einstellungen.
+
+Sie benennen den Computer in Client 25 um. #
+
+Bir şirket ağını Active Directory ile yönetiyorsunuz. Etki alanına bir Windows 10 bilgisayarına katılmak istiyorsunuz. Önceden Client25 adında bir bilgisayar hesabı oluşturursunuz. Windows 10 Professional'ı varsayılan ayarlarla yeni bir bilgisayara yüklersiniz.
+
+Sonra ne yapacaksın?
+
+Bilgisayarı Client25 olarak yeniden adlandırırsınız.
+
+Bilgisayarı ağa bağlarsınız ve yeniden başlatırsınız.
+
+Bilgisayarı ağa bağlarsınız ve ayarları açarsınız.
+
+Bilgisayarı İstemci 25 olarak yeniden adlandırırsınız.
+
